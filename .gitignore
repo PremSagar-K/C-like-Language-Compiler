@@ -1,0 +1,30 @@
+# Compiled files
+*.o
+*.exe
+a.out
+a.exe
+
+# Generated files by Flex and Bison
+lex.yy.c
+*.tab.c
+*.tab.h
+*.yy.c
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build directories
+build/
+dist/
